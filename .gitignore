@@ -1,5 +1,4 @@
 raw
 *.sw?
 .DS_Store
-components
-build
+node_modules
